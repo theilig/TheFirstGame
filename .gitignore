@@ -1,0 +1,7 @@
+GenerateIDL.iws
+.idea
+out/
+obj/
+project/project/target
+project/target
+target
